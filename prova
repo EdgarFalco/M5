@@ -1,10 +1,10 @@
 Plantilla para repositorios de git
-=============
+
 
 Un ejemplo de plantilla para repositorio de git. Tiene algún fichero traducido al español y un ejemplo de *hook* ligeramente modificado.
 
 Instrucciones
-----
+
 
 Para sustituir a la plantilla por defecto de `git`
 
